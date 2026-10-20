@@ -1,0 +1,35 @@
+{
+  "name": "pushnotif-sdk",
+  "version": "2.1.0",
+  "description": "Official PushNotif SDK for Web (Next.js, React, Vue, Vite), React Native (Android FCM & iOS APNs), and Node.js Server.",
+  "main": "index.js",
+  "module": "index.mjs",
+  "types": "index.d.ts",
+  "bin": {
+    "pushnotif-init": "./bin/cli.js"
+  },
+  "files": [
+    "index.js",
+    "index.mjs",
+    "index.d.ts",
+    "bin/cli.js",
+    "README.md"
+  ],
+  "keywords": [
+    "pushnotif",
+    "web-push",
+    "push-notification",
+    "react-native",
+    "nextjs",
+    "expo",
+    "fcm",
+    "apns"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AarsyDesign/pushnotif-sdk.git"
+  },
+  "homepage": "https://pushnotif.biz.id/docs",
+  "author": "PushNotif (https://pushnotif.biz.id)",
+  "license": "MIT"
+}

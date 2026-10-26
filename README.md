@@ -1,5 +1,8 @@
 # `pushnotif-sdk` — Official PushNotif Universal SDK (Web, React Native & Node.js)
 
+[![Listed on mcpservers.org](https://mcpservers.org/badge.svg)](https://mcpservers.org/servers/aarsydesign/pushnotif-mcp)
+[![Listed on AllMCPs](https://allmcps.com/api/badge/pushnotif-official-mcp-server?style=shield)](https://allmcps.com/mcp/pushnotif-official-mcp-server)
+
 SDK resmi dari **[PushNotif](https://pushnotif.biz.id)** untuk memasang **Web Push Notification**, **In-App Promo Popup**, **Live Activity Toast**, serta **Native Mobile (React Native / Expo — Android FCM & iOS APNs)** dalam hitungan detik.
 
 ---
